@@ -3,5 +3,5 @@
 # To use:
 open two terminals \
 in one terminal, type: npm start \
-in other terminal, type: uvicorn main:app --reload \
+in other terminal, type: uvicorn main:app --reload 
 # There you go, free Grammarly second brain
